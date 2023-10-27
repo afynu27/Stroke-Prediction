@@ -1,2 +1,2 @@
 # Stroke-Prediction
-Final project: Used Kaggle's stroke dataset for EDA, preprocessing, and model selection. Built a Gradient Boosting Classifier model and deployed with Streamlit.
+This is the final project that my team and I have completed. We decided to use the stroke dataset from Kaggle (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data). Our project involved conducting an Exploratory Data Analysis, preprocessing the data, and selecting suitable models. As a result, we built a Gradient Boosting Classifier model and utilized Streamlit for deployment.
